@@ -1,0 +1,15 @@
+-Recepcionamos la solicitud de pedido
+-Evaluación del Pedido
+	-Se verifica la finanzas(se revisa ganancias 			de la empresa)
+	-Se verifica proveedor
+		-Se realiza cotización
+-Se reliza la Orden de Compra
+	-Dirección de entrega de los productos
+	(almacén, puesto principal)
+-Se verifican productos traidos por el proveedor
+	-Verifica al macén(almacén nos brinda si 		esta conforme)-->siempre y cuando llegue al 		almacén primero
+
+	-se verifica la guia de remisión
+	-se realiza la factura o boleta
+-Fin de la Orden de Compra
+
