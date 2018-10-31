@@ -13,3 +13,6 @@
 	-se realiza la factura o boleta
 -Fin de la Orden de Compra
 
+
+
+confirmacion ----
