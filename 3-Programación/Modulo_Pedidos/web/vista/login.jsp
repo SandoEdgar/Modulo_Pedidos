@@ -36,7 +36,7 @@
     <img src="<%=request.getContextPath()%>/Complementos/dist/img/usuario-login.png" alt="" width=150>
   </div>
     <div class="card-body login-card-body">
-      <p class="login-box-msg">Ingresa  tus credenciales</p>
+      <p class="login-box-msg">Ingresa  tus Credenciales</p>
       <form name="form">
         <div class="form-group has-feedback">
             <input type="email" class="form-control" placeholder="Correo Institucional" id="loginEmail" name="loginEmail">
