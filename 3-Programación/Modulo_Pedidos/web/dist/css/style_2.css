@@ -5,22 +5,24 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: sans-serif;
+    font-family: sans-serif;    
 }
-
+body{
+    height: 700px;
+}
 footer{
     width: 100%;
     background: #202020;
     color: white; 
-    
-    
+    padding-top: 30px;
+    margin-top: -5px;
 }
 
 .container-footer-all{
     width: 100%;
     max-width: 1200px;
     margin: auto;
-    padding: 40px;
+    
 }
 
 .container-body{

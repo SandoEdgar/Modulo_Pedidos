@@ -21,7 +21,7 @@
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<%=request.getContextPath()%>/Complementos/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="<%=request.getContextPath()%>/Complementos/dist/css/adminlte.min.css">*/
   <!-- iCheck -->
   <link rel="stylesheet" href="<%=request.getContextPath()%>/Complementos/plugins/iCheck/square/blue.css">
   <!-- Google Font: Source Sans Pro -->
@@ -58,7 +58,8 @@
           </div>
           <!-- /.col -->
           <div class="col-4">
-              <button class="btn btn-block btn-flat btn-ingresar" id="btn-ingresar">Ingresar</button>
+              <a href="<%=request.getContextPath()%>/Frm_Lista_Orden_Pedido.jsp"> <button class="btn btn-block btn-flat btn-ingresar" id="btn-ingresar" >Ingresar</button>
+              </a>
           </div>
           <br>
           <!-- /.col -->
