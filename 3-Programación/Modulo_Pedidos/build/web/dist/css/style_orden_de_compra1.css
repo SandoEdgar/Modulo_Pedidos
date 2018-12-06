@@ -8,7 +8,6 @@ body{
      padding-right:11em;
      text-align: center;
 }
-
 .cuerpo
 {
     padding-left:11em;
@@ -21,12 +20,9 @@ body{
 {
     float: left;
     font-size: 15px;
-    margin-top:80px;
-    margin-left: -150px;
-    
 }
 .pt1 table {
-    border: 3px solid black;
+border: 3px solid black;
 }
 
 .pt1 table td {
@@ -37,15 +33,10 @@ border:hidden;
 {
     float: right;
     font-size: 15px;
-    margin-top:80px;
-    margin-right: -60px;
 }
 
-.contenedor-orden{
-    margin: 0 70px 70px 70px;
-    border:#339FFF double 10px;
-    padding: 0;
-}
+
+
 
 #main-container{
 	margin: 150px auto;
@@ -55,23 +46,20 @@ border:hidden;
 table{
 	background-color: white;
 	text-align:center;
-        width: 100%;
+            
 	
 }
 th, td{
 	padding: 10px;
 }
 
-tr,th{
-    padding:20px;
-}
+
 thead{
-	background-color: #34ce57;
+	background-color: #339FFF;
 	color: white;
 }
 
 tr:nth-child(even){
-	background-color: #204d74;
+	background-color: green;
 }
-
 
